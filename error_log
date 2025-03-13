@@ -1,0 +1,336 @@
+[31-Dec-2024 09:50:54 UTC] PHP Warning:  require_once(./include/db_connection.php): Failed to open stream: No such file or directory in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 09:50:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './include/db_connection.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/acticmik/public_html/google-login-callback.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 10:15:54 UTC] PHP Parse error:  Unmatched '}' in /home/acticmik/public_html/category_details.php on line 325
+[31-Dec-2024 12:33:49 UTC] PHP Warning:  require_once(./include/db_connection.php): Failed to open stream: No such file or directory in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 12:33:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './include/db_connection.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/acticmik/public_html/google-login-callback.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 12:44:18 UTC] PHP Warning:  require_once(./include/db_connection.php): Failed to open stream: No such file or directory in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 12:44:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './include/db_connection.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/acticmik/public_html/google-login-callback.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 12:45:00 UTC] PHP Warning:  require_once(./include/db_connection.php): Failed to open stream: No such file or directory in /home/acticmik/public_html/google-login-callback.php on line 3
+[31-Dec-2024 12:45:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './include/db_connection.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/acticmik/public_html/google-login-callback.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/google-login-callback.php on line 3
+[01-Jan-2025 09:18:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[01-Jan-2025 09:38:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[03-Jan-2025 00:27:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[03-Jan-2025 17:20:55 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:21:08 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:21:47 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:21:49 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:22:11 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 17:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "Google_Client" not found in /home/acticmik/public_html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/acticmik/public_html/login.php on line 6
+[03-Jan-2025 18:00:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[03-Jan-2025 18:00:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ss" in /home/acticmik/public_html/otp_mail_function.php:60
+Stack trace:
+#0 /home/acticmik/public_html/forgot_password.php(65): include()
+#1 {main}
+  thrown in /home/acticmik/public_html/otp_mail_function.php on line 60
+[03-Jan-2025 18:03:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[03-Jan-2025 18:03:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ss" in /home/acticmik/public_html/otp_mail_function.php:60
+Stack trace:
+#0 /home/acticmik/public_html/forgot_password.php(65): include()
+#1 {main}
+  thrown in /home/acticmik/public_html/otp_mail_function.php on line 60
+[03-Jan-2025 18:08:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[05-Jan-2025 23:06:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'nvOpzp; AND 1=1 OR (<'">iKO)),'' at line 1 in /home/acticmik/public_html/brand.php:9
+Stack trace:
+#0 /home/acticmik/public_html/brand.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/brand.php on line 9
+[06-Jan-2025 02:13:45 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/login.php on line 69
+[06-Jan-2025 02:13:45 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/login.php on line 69
+[06-Jan-2025 02:13:47 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/register.php on line 58
+[06-Jan-2025 02:13:47 UTC] PHP Warning:  Undefined array key "confirm_password" in /home/acticmik/public_html/register.php on line 59
+[06-Jan-2025 02:13:48 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/register.php on line 58
+[06-Jan-2025 02:13:48 UTC] PHP Warning:  Undefined array key "confirm_password" in /home/acticmik/public_html/register.php on line 59
+[06-Jan-2025 09:30:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''fashion--clothing''' at line 1 in /home/acticmik/public_html/category.php:9
+Stack trace:
+#0 /home/acticmik/public_html/category.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/category.php on line 9
+[06-Jan-2025 18:42:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[06-Jan-2025 18:42:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[07-Jan-2025 04:24:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[07-Jan-2025 04:24:43 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 04:24:43 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 04:25:06 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 04:25:06 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 04:25:06 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 04:25:06 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 04:25:27 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 04:25:27 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 04:25:27 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 04:25:27 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 07:37:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[07-Jan-2025 07:37:11 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 07:37:11 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 07:39:18 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 07:39:18 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 07:39:18 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 07:39:18 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 07:39:31 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 07:39:31 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 07:39:31 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 07:39:31 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 08:00:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/acticmik/public_html/db/connection.php:7
+Stack trace:
+#0 /home/acticmik/public_html/db/connection.php(7): mysqli->__construct()
+#1 /home/acticmik/public_html/index.php(3): require_once('/home/acticmik/...')
+#2 {main}
+  thrown in /home/acticmik/public_html/db/connection.php on line 7
+[07-Jan-2025 08:30:23 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 08:30:23 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 08:30:28 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 08:30:28 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 08:30:28 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 08:30:28 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 08:30:32 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 08:30:32 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 08:37:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[07-Jan-2025 08:37:59 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 08:37:59 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 08:38:18 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 08:38:18 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 08:38:18 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 08:38:18 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 08:40:01 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 08:40:01 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:01:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[07-Jan-2025 11:01:45 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:01:45 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:02:01 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 11:02:01 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 11:02:01 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:02:01 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:02:23 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 11:02:23 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 11:02:23 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:02:23 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:02:27 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 11:02:27 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 11:02:27 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:02:27 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:02:31 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:02:31 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:04:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[07-Jan-2025 11:04:10 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:04:10 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:04:23 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[07-Jan-2025 11:04:23 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[07-Jan-2025 11:04:24 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:04:24 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 11:04:58 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[07-Jan-2025 11:04:58 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[07-Jan-2025 12:25:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[07-Jan-2025 13:45:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[08-Jan-2025 06:45:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'nvOpzp; AND 1=1 OR (<'">iKO)),'' at line 1 in /home/acticmik/public_html/brand.php:9
+Stack trace:
+#0 /home/acticmik/public_html/brand.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/brand.php on line 9
+[09-Jan-2025 04:16:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[09-Jan-2025 04:17:03 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:17:03 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:17:55 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[09-Jan-2025 04:17:55 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[09-Jan-2025 04:17:55 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:17:55 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:18:14 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[09-Jan-2025 04:18:14 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[09-Jan-2025 04:18:14 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:18:14 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:18:23 UTC] PHP Warning:  Undefined array key "email" in /home/acticmik/public_html/otp.php on line 61
+[09-Jan-2025 04:18:23 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/otp.php on line 62
+[09-Jan-2025 04:18:23 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:18:23 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:19:33 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:19:33 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:20:01 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:20:01 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:20:03 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:20:03 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 04:20:06 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[09-Jan-2025 04:20:06 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[09-Jan-2025 12:54:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[09-Jan-2025 15:22:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:58
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 58
+[10-Jan-2025 13:55:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:55
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 55
+[12-Jan-2025 02:36:41 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/login.php on line 71
+[12-Jan-2025 02:36:42 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/login.php on line 71
+[12-Jan-2025 02:36:44 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/register.php on line 61
+[12-Jan-2025 02:36:44 UTC] PHP Warning:  Undefined array key "confirm_password" in /home/acticmik/public_html/register.php on line 62
+[12-Jan-2025 02:36:44 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/register.php on line 61
+[12-Jan-2025 02:36:44 UTC] PHP Warning:  Undefined array key "confirm_password" in /home/acticmik/public_html/register.php on line 62
+[12-Jan-2025 03:24:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:55
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 55
+[12-Jan-2025 03:24:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:55
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 55
+[12-Jan-2025 17:07:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''pizza-hut''' at line 1 in /home/acticmik/public_html/brand.php:9
+Stack trace:
+#0 /home/acticmik/public_html/brand.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/brand.php on line 9
+[13-Jan-2025 17:48:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''food-city''' at line 1 in /home/acticmik/public_html/brand.php:9
+Stack trace:
+#0 /home/acticmik/public_html/brand.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/brand.php on line 9
+[15-Jan-2025 05:57:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 05:57:35 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[15-Jan-2025 05:57:35 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[15-Jan-2025 05:57:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 05:57:57 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[15-Jan-2025 05:57:57 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[15-Jan-2025 05:58:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 05:58:17 UTC] PHP Warning:  Undefined variable $message in /home/acticmik/public_html/otp.php on line 191
+[15-Jan-2025 05:58:17 UTC] PHP Warning:  Undefined variable $showModal in /home/acticmik/public_html/otp.php on line 224
+[15-Jan-2025 08:12:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 16:26:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''fanta''' at line 1 in /home/acticmik/public_html/brand.php:9
+Stack trace:
+#0 /home/acticmik/public_html/brand.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/brand.php on line 9
+[15-Jan-2025 16:26:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''coca-cola''' at line 1 in /home/acticmik/public_html/brand.php:9
+Stack trace:
+#0 /home/acticmik/public_html/brand.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/brand.php on line 9
+[15-Jan-2025 17:20:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 17:29:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 17:54:12 UTC] PHP Parse error:  syntax error, unexpected variable "$customer_name" in /home/acticmik/public_html/otp_mail_function.php on line 129
+[15-Jan-2025 17:54:22 UTC] PHP Parse error:  syntax error, unexpected variable "$customer_name" in /home/acticmik/public_html/otp_mail_function.php on line 129
+[15-Jan-2025 17:55:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 18:07:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 18:44:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 18:45:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[15-Jan-2025 18:46:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[16-Jan-2025 05:52:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/acticmik/public_html/forgot_password.php on line 2) in /home/acticmik/public_html/otp_mail_function.php on line 2
+[16-Jan-2025 11:49:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''banks--cards''' at line 1 in /home/acticmik/public_html/category.php:9
+Stack trace:
+#0 /home/acticmik/public_html/category.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/acticmik/public_html/category.php on line 9
+[16-Jan-2025 14:01:22 UTC] PHP Warning:  Undefined array key "fullname" in /home/acticmik/public_html/register.php on line 158
+[16-Jan-2025 14:01:22 UTC] PHP Warning:  Undefined array key "address" in /home/acticmik/public_html/register.php on line 170
+[16-Jan-2025 14:01:22 UTC] PHP Warning:  Undefined array key "city" in /home/acticmik/public_html/register.php on line 171
+[16-Jan-2025 14:01:22 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/register.php on line 172
+[16-Jan-2025 14:01:22 UTC] PHP Warning:  Undefined array key "confirm-password" in /home/acticmik/public_html/register.php on line 173
+[16-Jan-2025 14:01:23 UTC] PHP Warning:  Undefined array key "fullname" in /home/acticmik/public_html/register.php on line 158
+[16-Jan-2025 14:01:23 UTC] PHP Warning:  Undefined array key "address" in /home/acticmik/public_html/register.php on line 170
+[16-Jan-2025 14:01:23 UTC] PHP Warning:  Undefined array key "city" in /home/acticmik/public_html/register.php on line 171
+[16-Jan-2025 14:01:23 UTC] PHP Warning:  Undefined array key "password" in /home/acticmik/public_html/register.php on line 172
+[16-Jan-2025 14:01:23 UTC] PHP Warning:  Undefined array key "confirm-password" in /home/acticmik/public_html/register.php on line 173
+[17-Jan-2025 05:30:35 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:30:35 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:46:27 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:46:27 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:46:46 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:46:46 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:55:30 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:55:30 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:55:30 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:55:30 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:56:57 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:57:04 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:57:04 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:57:10 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 05:57:10 UTC] PHP Warning:  Undefined variable $avg_rating in /home/acticmik/public_html/location.php on line 142
+[17-Jan-2025 12:49:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:55
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 55
+[17-Jan-2025 14:00:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:55
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 55
+[17-Jan-2025 14:13:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'brand_id' cannot be null in /home/acticmik/public_html/ads-details.php:55
+Stack trace:
+#0 /home/acticmik/public_html/ads-details.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/acticmik/public_html/ads-details.php on line 55
